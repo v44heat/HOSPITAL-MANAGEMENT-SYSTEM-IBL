@@ -78,8 +78,7 @@ function checklen()
 
 <div class="container register" style="font-family: 'IBM Plex Sans', sans-serif;">
                 <div class="row">
-                    <div class="col-md-3 register-left" style="margin-top: 10%;right: 5%">
-                        <img src="https://image.ibb.co/n7oTvU/logo_white.png" alt=""/>
+                    <div class="col-md-3 register-left" style="margin-top: 20%;right: 5%">
                         <h3>Welcome</h3>
                        
                     </div>
@@ -92,7 +91,7 @@ function checklen()
                                 <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Doctor</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#admin" role="tab" aria-controls="admin" aria-selected="false">Receptionist</a>
+                                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#admin" role="tab" aria-controls="admin" aria-selected="false">Admin</a>
                             </li>
                         </ul>
                         <div class="tab-content" id="myTabContent">
